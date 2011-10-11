@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">App Synchronizer</string>
+    <string name="app_name">Synchronizer</string>
+    <string name="ApkSync">Sync All APKs </string>
+    <string name="DataSync">Sync Data </string>
+    <string name="InstalledApps">Sync All Data</string>
+    <string name="AppsOnCloud">Apps On Cloud</string>
+</resources>
